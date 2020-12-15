@@ -1,0 +1,11 @@
+public class main {
+
+	public static void main(String[] args) {
+		
+		
+		Caeser Yuliy = new Caeser();
+		String encryptStr = Yuliy.encrypt("Здравствуйте", 12);
+		System.out.println(encryptStr);
+				
+	}
+}
