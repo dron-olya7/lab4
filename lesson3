@@ -1,0 +1,17 @@
+public class lesson3 {
+
+public static void main(String[] args) {
+	
+	int figure = 10;
+	
+	int i, j;
+	for (i = 1; i <= figure; i++)
+	{
+		for (j = -10; j < figure; j++)
+		{
+			System.out.print("2");
+			}
+		System.out.println();
+	}
+}
+}
